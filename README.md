@@ -5,9 +5,9 @@
 - List2
 + List3
 ### Example code
-\<javascript><br>
-&nbsp;&nbsp;&nbsp;&nbsp;alert('ok');<br>
-\</javascript>
+<code>\<javascript></code><br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;alert('ok');</code><br>
+<code>\</javascript></code>
 ### Credit
 <a herf>ttsittima@gmail.com</a>
 ### License
